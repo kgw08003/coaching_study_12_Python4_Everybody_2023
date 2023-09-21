@@ -1,6 +1,6 @@
 # 네이버 부스트코스트 코칭 스터디 11기 Let's AI 2023
 
-![코칭 11기](https://github.com/kgw08003/coaching_study_11_Lets_ai_2023/assets/109195054/62598a76-9f5c-493d-b5cd-9d7743b30b53)
+![12기](https://github.com/kgw08003/coaching_study_12_Python4_Everybody_2023/assets/109195054/a44839b3-3f2f-4004-adf0-ecf3d708a718)
 
 ## 활동 기간 2023.06.07 ~  2023. 07.05
 
